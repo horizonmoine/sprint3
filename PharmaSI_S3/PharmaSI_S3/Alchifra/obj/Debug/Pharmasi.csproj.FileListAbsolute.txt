@@ -1,0 +1,459 @@
+D:\PharmaSI\Alchifra\bin\Debug\Alchifra.exe.config
+D:\PharmaSI\Alchifra\bin\Debug\Alchifra.exe
+D:\PharmaSI\Alchifra\bin\Debug\Alchifra.pdb
+D:\PharmaSI\Alchifra\bin\Debug\BouncyCastle.Cryptography.dll
+D:\PharmaSI\Alchifra\bin\Debug\Google.Protobuf.dll
+D:\PharmaSI\Alchifra\bin\Debug\K4os.Compression.LZ4.dll
+D:\PharmaSI\Alchifra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\PharmaSI\Alchifra\bin\Debug\K4os.Hash.xxHash.dll
+D:\PharmaSI\Alchifra\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PharmaSI\Alchifra\bin\Debug\MySql.Data.dll
+D:\PharmaSI\Alchifra\bin\Debug\System.Buffers.dll
+D:\PharmaSI\Alchifra\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\PharmaSI\Alchifra\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\PharmaSI\Alchifra\bin\Debug\System.IO.Pipelines.dll
+D:\PharmaSI\Alchifra\bin\Debug\System.Memory.dll
+D:\PharmaSI\Alchifra\bin\Debug\System.Numerics.Vectors.dll
+D:\PharmaSI\Alchifra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PharmaSI\Alchifra\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\PharmaSI\Alchifra\bin\Debug\ZstdSharp.dll
+D:\PharmaSI\Alchifra\bin\Debug\BouncyCastle.Cryptography.xml
+D:\PharmaSI\Alchifra\bin\Debug\Google.Protobuf.pdb
+D:\PharmaSI\Alchifra\bin\Debug\Google.Protobuf.xml
+D:\PharmaSI\Alchifra\bin\Debug\K4os.Compression.LZ4.xml
+D:\PharmaSI\Alchifra\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\PharmaSI\Alchifra\bin\Debug\K4os.Hash.xxHash.xml
+D:\PharmaSI\Alchifra\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\PharmaSI\Alchifra\bin\Debug\MySql.Data.xml
+D:\PharmaSI\Alchifra\bin\Debug\System.Buffers.xml
+D:\PharmaSI\Alchifra\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\PharmaSI\Alchifra\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\PharmaSI\Alchifra\bin\Debug\System.IO.Pipelines.xml
+D:\PharmaSI\Alchifra\bin\Debug\System.Memory.xml
+D:\PharmaSI\Alchifra\bin\Debug\System.Numerics.Vectors.xml
+D:\PharmaSI\Alchifra\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\PharmaSI\Alchifra\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\PharmaSI\Alchifra\obj\Debug\Pharmasi.csproj.AssemblyReference.cache
+D:\PharmaSI\Alchifra\obj\Debug\Alchifra.Form1.resources
+D:\PharmaSI\Alchifra\obj\Debug\Alchifra.Properties.Resources.resources
+D:\PharmaSI\Alchifra\obj\Debug\Pharmasi.csproj.GenerateResource.cache
+D:\PharmaSI\Alchifra\obj\Debug\Pharmasi.csproj.CoreCompileInputs.cache
+D:\PharmaSI\Alchifra\obj\Debug\Pharmasi.csproj.CopyComplete
+D:\PharmaSI\Alchifra\obj\Debug\Alchifra.exe
+D:\PharmaSI\Alchifra\obj\Debug\Alchifra.pdb
+E:\PharmaSI\Alchifra\bin\Debug\Alchifra.exe.config
+E:\PharmaSI\Alchifra\bin\Debug\Alchifra.exe
+E:\PharmaSI\Alchifra\bin\Debug\Alchifra.pdb
+E:\PharmaSI\Alchifra\bin\Debug\BouncyCastle.Cryptography.dll
+E:\PharmaSI\Alchifra\bin\Debug\Google.Protobuf.dll
+E:\PharmaSI\Alchifra\bin\Debug\K4os.Compression.LZ4.dll
+E:\PharmaSI\Alchifra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\PharmaSI\Alchifra\bin\Debug\K4os.Hash.xxHash.dll
+E:\PharmaSI\Alchifra\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PharmaSI\Alchifra\bin\Debug\MySql.Data.dll
+E:\PharmaSI\Alchifra\bin\Debug\System.Buffers.dll
+E:\PharmaSI\Alchifra\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\PharmaSI\Alchifra\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\PharmaSI\Alchifra\bin\Debug\System.IO.Pipelines.dll
+E:\PharmaSI\Alchifra\bin\Debug\System.Memory.dll
+E:\PharmaSI\Alchifra\bin\Debug\System.Numerics.Vectors.dll
+E:\PharmaSI\Alchifra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\PharmaSI\Alchifra\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\PharmaSI\Alchifra\bin\Debug\ZstdSharp.dll
+E:\PharmaSI\Alchifra\bin\Debug\BouncyCastle.Cryptography.xml
+E:\PharmaSI\Alchifra\bin\Debug\Google.Protobuf.pdb
+E:\PharmaSI\Alchifra\bin\Debug\Google.Protobuf.xml
+E:\PharmaSI\Alchifra\bin\Debug\K4os.Compression.LZ4.xml
+E:\PharmaSI\Alchifra\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\PharmaSI\Alchifra\bin\Debug\K4os.Hash.xxHash.xml
+E:\PharmaSI\Alchifra\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\PharmaSI\Alchifra\bin\Debug\MySql.Data.xml
+E:\PharmaSI\Alchifra\bin\Debug\System.Buffers.xml
+E:\PharmaSI\Alchifra\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\PharmaSI\Alchifra\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\PharmaSI\Alchifra\bin\Debug\System.IO.Pipelines.xml
+E:\PharmaSI\Alchifra\bin\Debug\System.Memory.xml
+E:\PharmaSI\Alchifra\bin\Debug\System.Numerics.Vectors.xml
+E:\PharmaSI\Alchifra\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\PharmaSI\Alchifra\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\PharmaSI\Alchifra\obj\Debug\Pharmasi.csproj.AssemblyReference.cache
+E:\PharmaSI\Alchifra\obj\Debug\Alchifra.exe.config
+E:\PharmaSI\Alchifra\obj\Debug\Alchifra.Form1.resources
+E:\PharmaSI\Alchifra\obj\Debug\Alchifra.Properties.Resources.resources
+E:\PharmaSI\Alchifra\obj\Debug\Pharmasi.csproj.GenerateResource.cache
+E:\PharmaSI\Alchifra\obj\Debug\Pharmasi.csproj.CoreCompileInputs.cache
+E:\PharmaSI\Alchifra\obj\Debug\Pharmasi.csproj.Up2Date
+E:\PharmaSI\Alchifra\obj\Debug\Alchifra.exe
+E:\PharmaSI\Alchifra\obj\Debug\Alchifra.pdb
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\Alchifra.exe.config
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\Alchifra.exe
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\Alchifra.pdb
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\Google.Protobuf.dll
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\MySql.Data.dll
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\System.Buffers.dll
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\System.IO.Pipelines.dll
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\System.Memory.dll
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\ZstdSharp.dll
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\Google.Protobuf.pdb
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\Google.Protobuf.xml
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\MySql.Data.xml
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\System.Buffers.xml
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\System.IO.Pipelines.xml
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\System.Memory.xml
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\obj\Debug\Pharmasi.csproj.AssemblyReference.cache
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\obj\Debug\Alchifra.exe.config
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\obj\Debug\Alchifra.Form1.resources
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\obj\Debug\Alchifra.Properties.Resources.resources
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\obj\Debug\Pharmasi.csproj.GenerateResource.cache
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\obj\Debug\Pharmasi.csproj.CoreCompileInputs.cache
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\obj\Debug\Pharmasi.csproj.Up2Date
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\obj\Debug\Alchifra.exe
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\obj\Debug\Alchifra.pdb
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\Alchifra.exe.config
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\Alchifra.exe
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\Alchifra.pdb
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\Google.Protobuf.dll
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\MySql.Data.dll
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\System.Buffers.dll
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\System.Memory.dll
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\ZstdSharp.dll
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\Google.Protobuf.xml
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\MySql.Data.xml
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\System.Buffers.xml
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\System.Memory.xml
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\obj\Debug\PharmaSI.csproj.AssemblyReference.cache
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\obj\Debug\Alchifra.Form1.resources
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\obj\Debug\Alchifra.Properties.Resources.resources
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\obj\Debug\PharmaSI.csproj.GenerateResource.cache
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\obj\Debug\PharmaSI.csproj.CoreCompileInputs.cache
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\obj\Debug\PharmaSI.csproj.CopyComplete
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\obj\Debug\Alchifra.exe
+C:\Users\Jixuna\source\repos\PharmaSI\Alchifra\obj\Debug\Alchifra.pdb
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\obj\Debug\Alchifra.FormDelegue.resources
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\obj\Debug\Alchifra.FormResponsable.resources
+C:\Users\tina2\source\repos\PharmaSI\Alchifra\obj\Debug\Alchifra.FormVisiteur.resources
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\Alchifra.exe.config
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\Alchifra.exe
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\Alchifra.pdb
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\Google.Protobuf.dll
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\MySql.Data.dll
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\System.Buffers.dll
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\System.IO.Pipelines.dll
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\System.Memory.dll
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\ZstdSharp.dll
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\Google.Protobuf.pdb
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\Google.Protobuf.xml
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\MySql.Data.xml
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\System.Buffers.xml
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\System.IO.Pipelines.xml
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\System.Memory.xml
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\obj\Debug\PharmaSI.csproj.AssemblyReference.cache
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\obj\Debug\Alchifra.exe.config
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\obj\Debug\Alchifra.Form1.resources
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\obj\Debug\Alchifra.FormDelegue.resources
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\obj\Debug\Alchifra.FormResponsable.resources
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\obj\Debug\Alchifra.FormVisiteur.resources
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\obj\Debug\Alchifra.Properties.Resources.resources
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\obj\Debug\PharmaSI.csproj.GenerateResource.cache
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\obj\Debug\PharmaSI.csproj.CoreCompileInputs.cache
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\obj\Debug\PharmaSI.csproj.Up2Date
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\obj\Debug\Alchifra.exe
+C:\Users\tina2\source\repos\PharmaSI_test\Alchifra\obj\Debug\Alchifra.pdb
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\Alchifra.exe.config
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\Alchifra.exe
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\Alchifra.pdb
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\Google.Protobuf.dll
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\MySql.Data.dll
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Buffers.dll
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Memory.dll
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\ZstdSharp.dll
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\Google.Protobuf.xml
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\MySql.Data.xml
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Buffers.xml
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Memory.xml
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\obj\Debug\PharmaSI.csproj.AssemblyReference.cache
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.Form1.resources
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.FormDelegue.resources
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.FormResponsable.resources
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.FormVisiteur.resources
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.Properties.Resources.resources
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\obj\Debug\PharmaSI.csproj.GenerateResource.cache
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\obj\Debug\PharmaSI.csproj.CoreCompileInputs.cache
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\obj\Debug\PharmaSI.csproj.CopyComplete
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.exe
+C:\Users\Jixuna\source\repos\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.pdb
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\Alchifra.exe.config
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\Alchifra.exe
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\Alchifra.pdb
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\Google.Protobuf.dll
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\MySql.Data.dll
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Buffers.dll
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.IO.Pipelines.dll
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Memory.dll
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\ZstdSharp.dll
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\Google.Protobuf.pdb
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\Google.Protobuf.xml
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\MySql.Data.xml
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Buffers.xml
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.IO.Pipelines.xml
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Memory.xml
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\obj\Debug\Pharmasi.csproj.AssemblyReference.cache
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.exe.config
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.Form1.resources
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.FormDelegue.resources
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.FormResponsable.resources
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.FormVisiteur.resources
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.Properties.Resources.resources
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\obj\Debug\Pharmasi.csproj.GenerateResource.cache
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\obj\Debug\Pharmasi.csproj.CoreCompileInputs.cache
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\obj\Debug\Pharmasi.csproj.Up2Date
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.exe
+C:\Users\tina2\source\repos\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.pdb
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\Alchifra.exe.config
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\Alchifra.exe
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\Alchifra.pdb
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\Google.Protobuf.dll
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\MySql.Data.dll
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\System.Buffers.dll
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\System.IO.Pipelines.dll
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\System.Memory.dll
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\ZstdSharp.dll
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\Google.Protobuf.pdb
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\Google.Protobuf.xml
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\MySql.Data.xml
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\System.Buffers.xml
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\System.IO.Pipelines.xml
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\System.Memory.xml
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\obj\Debug\PharmaSI.csproj.AssemblyReference.cache
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.exe.config
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.Form1.resources
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.FormDelegue.resources
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.FormPraticien.resources
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.FormResponsable.resources
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.FormVisiteur.resources
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.Properties.Resources.resources
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\obj\Debug\PharmaSI.csproj.GenerateResource.cache
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\obj\Debug\PharmaSI.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\obj\Debug\PharmaSI.csproj.Up2Date
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.exe
+C:\Users\marko\Desktop\Pharmatestttt\PharmaSI_S2\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.pdb
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\PharmaSI.csprojAssemblyReference.cache
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.Form1.resources
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.FormDelegue.resources
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.FormPraticien.resources
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.FormResponsable.resources
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.FormVisiteur.resources
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.Properties.Resources.resources
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\PharmaSI.csproj.GenerateResource.cache
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\PharmaSI.csproj.CoreCompileInputs.cache
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.exe
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.pdb
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Alchifra.exe.config
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Alchifra.exe
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Alchifra.pdb
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\BouncyCastle.Cryptography.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Google.Protobuf.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\K4os.Compression.LZ4.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\K4os.Hash.xxHash.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\MySql.Data.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Buffers.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Configuration.ConfigurationManager.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.IO.Pipelines.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Memory.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Numerics.Vectors.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\ZstdSharp.dll
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\BouncyCastle.Cryptography.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Google.Protobuf.pdb
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Google.Protobuf.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\K4os.Compression.LZ4.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\K4os.Compression.LZ4.Streams.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\K4os.Hash.xxHash.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\MySql.Data.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Buffers.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Configuration.ConfigurationManager.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.IO.Pipelines.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Memory.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Numerics.Vectors.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\louisarmand.local\EspacePeda\Eleves_SIO\Eleves\BTSSIO2A\KOLAK_Marko_(mkolak)\Desktop\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\PharmaSI.csproj.CopyComplete
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Alchifra.exe.config
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Alchifra.exe
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Alchifra.pdb
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\BouncyCastle.Cryptography.dll
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Google.Protobuf.dll
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\K4os.Compression.LZ4.dll
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\K4os.Hash.xxHash.dll
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\MySql.Data.dll
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Buffers.dll
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Configuration.ConfigurationManager.dll
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.IO.Pipelines.dll
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Memory.dll
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Numerics.Vectors.dll
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Threading.Tasks.Extensions.dll
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\ZstdSharp.dll
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\BouncyCastle.Cryptography.xml
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Google.Protobuf.pdb
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Google.Protobuf.xml
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\K4os.Compression.LZ4.xml
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\K4os.Compression.LZ4.Streams.xml
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\K4os.Hash.xxHash.xml
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\MySql.Data.xml
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Buffers.xml
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Configuration.ConfigurationManager.xml
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.IO.Pipelines.xml
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Memory.xml
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Numerics.Vectors.xml
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Threading.Tasks.Extensions.xml
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\PharmaSI.csprojAssemblyReference.cache
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.Form1.resources
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.FormDelegue.resources
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.FormPraticien.resources
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.FormResponsable.resources
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.FormVisiteur.resources
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.Properties.Resources.resources
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\PharmaSI.csproj.GenerateResource.cache
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\PharmaSI.csproj.CoreCompileInputs.cache
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\PharmaSI.csproj.CopyComplete
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.exe
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.pdb

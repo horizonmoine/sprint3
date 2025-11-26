@@ -1,8 +1,0 @@
-P:\sprint 3\PharmaSI_S2\Alchifra\obj\Debug\Pharmasi.csprojAssemblyReference.cache
-P:\sprint 3\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.Form1.resources
-P:\sprint 3\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.FormDelegue.resources
-P:\sprint 3\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.FormResponsable.resources
-P:\sprint 3\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.FormVisiteur.resources
-P:\sprint 3\PharmaSI_S2\Alchifra\obj\Debug\Pharmasi.csproj.GenerateResource.cache
-P:\sprint 3\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.exe
-P:\sprint 3\PharmaSI_S2\Alchifra\obj\Debug\Alchifra.pdb
