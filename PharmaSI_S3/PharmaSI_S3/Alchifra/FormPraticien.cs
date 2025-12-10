@@ -22,7 +22,7 @@ namespace Alchifra
         private void ChargerPraticiens()
         {
             // 1. Connexion
-            ConnexionSql maConnexion = ConnexionSql.GetInstance("localhost", "pharmasi", "root", ""); 
+            ConnexionSql maConnexion = ConnexionSql.GetInstance("localhost", "pharmasi", "pharmasi_user", "Pharma2025!");
             maConnexion.OpenConnexion();
 
             // 2. Requête SQL

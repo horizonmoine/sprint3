@@ -50,9 +50,9 @@
             this.lblMessage.AutoSize = true;
             this.lblMessage.BackColor = System.Drawing.Color.SeaGreen;
             this.lblMessage.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblMessage.Location = new System.Drawing.Point(352, 280);
+            this.lblMessage.Location = new System.Drawing.Point(313, 224);
             this.lblMessage.Name = "lblMessage";
-            this.lblMessage.Size = new System.Drawing.Size(0, 29);
+            this.lblMessage.Size = new System.Drawing.Size(0, 25);
             this.lblMessage.TabIndex = 2;
             // 
             // pictureBox3
@@ -61,10 +61,10 @@
             this.pictureBox3.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox3.ErrorImage = global::Alchifra.Properties.Resources.compte;
             this.pictureBox3.Image = global::Alchifra.Properties.Resources.compte;
-            this.pictureBox3.Location = new System.Drawing.Point(20, 550);
-            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.pictureBox3.Location = new System.Drawing.Point(18, 440);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(80, 80);
+            this.pictureBox3.Size = new System.Drawing.Size(71, 64);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox3.TabIndex = 7;
             this.pictureBox3.TabStop = false;
@@ -75,22 +75,25 @@
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.ErrorImage = global::Alchifra.Properties.Resources.logo;
             this.pictureBox1.Image = global::Alchifra.Properties.Resources.logo;
-            this.pictureBox1.Location = new System.Drawing.Point(980, 40);
+            this.pictureBox1.Location = new System.Drawing.Point(871, 32);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox1.Size = new System.Drawing.Size(89, 80);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 3;
             this.pictureBox1.TabStop = false;
             // 
             // menuStrip1
             // 
+            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.consultationToolStripMenuItem,
             this.saisieToolStripMenuItem,
             this.fichierToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1101, 24);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(5, 2, 0, 2);
+            this.menuStrip1.Size = new System.Drawing.Size(979, 28);
             this.menuStrip1.TabIndex = 13;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -101,26 +104,26 @@
             this.ficheDunPraticienToolStripMenuItem,
             this.comptesrendusToolStripMenuItem});
             this.consultationToolStripMenuItem.Name = "consultationToolStripMenuItem";
-            this.consultationToolStripMenuItem.Size = new System.Drawing.Size(87, 20);
+            this.consultationToolStripMenuItem.Size = new System.Drawing.Size(106, 24);
             this.consultationToolStripMenuItem.Text = "Consultation";
             // 
             // ficheDunProduitToolStripMenuItem
             // 
             this.ficheDunProduitToolStripMenuItem.Name = "ficheDunProduitToolStripMenuItem";
-            this.ficheDunProduitToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.ficheDunProduitToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.ficheDunProduitToolStripMenuItem.Text = "Fiche d\'un produit";
             // 
             // ficheDunPraticienToolStripMenuItem
             // 
             this.ficheDunPraticienToolStripMenuItem.Name = "ficheDunPraticienToolStripMenuItem";
-            this.ficheDunPraticienToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.ficheDunPraticienToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.ficheDunPraticienToolStripMenuItem.Text = "Fiche d\'un praticien";
             this.ficheDunPraticienToolStripMenuItem.Click += new System.EventHandler(this.ficheDunPraticienToolStripMenuItem_Click);
             // 
             // comptesrendusToolStripMenuItem
             // 
             this.comptesrendusToolStripMenuItem.Name = "comptesrendusToolStripMenuItem";
-            this.comptesrendusToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.comptesrendusToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.comptesrendusToolStripMenuItem.Text = "Comptes-rendus";
             // 
             // saisieToolStripMenuItem
@@ -128,13 +131,13 @@
             this.saisieToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.creerUnCompterenduToolStripMenuItem});
             this.saisieToolStripMenuItem.Name = "saisieToolStripMenuItem";
-            this.saisieToolStripMenuItem.Size = new System.Drawing.Size(48, 20);
+            this.saisieToolStripMenuItem.Size = new System.Drawing.Size(61, 24);
             this.saisieToolStripMenuItem.Text = "Saisie";
             // 
             // creerUnCompterenduToolStripMenuItem
             // 
             this.creerUnCompterenduToolStripMenuItem.Name = "creerUnCompterenduToolStripMenuItem";
-            this.creerUnCompterenduToolStripMenuItem.Size = new System.Drawing.Size(217, 22);
+            this.creerUnCompterenduToolStripMenuItem.Size = new System.Drawing.Size(246, 26);
             this.creerUnCompterenduToolStripMenuItem.Text = "Créer un compte-rendu";
             // 
             // fichierToolStripMenuItem
@@ -142,27 +145,28 @@
             this.fichierToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.quitterToolStripMenuItem});
             this.fichierToolStripMenuItem.Name = "fichierToolStripMenuItem";
-            this.fichierToolStripMenuItem.Size = new System.Drawing.Size(54, 20);
+            this.fichierToolStripMenuItem.Size = new System.Drawing.Size(66, 24);
             this.fichierToolStripMenuItem.Text = "Fichier";
             // 
             // quitterToolStripMenuItem
             // 
             this.quitterToolStripMenuItem.Name = "quitterToolStripMenuItem";
-            this.quitterToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.quitterToolStripMenuItem.Size = new System.Drawing.Size(138, 26);
             this.quitterToolStripMenuItem.Text = "Quitter";
             this.quitterToolStripMenuItem.Click += new System.EventHandler(this.quitterToolStripMenuItem_Click);
             // 
             // FormVisiteur
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.SeaGreen;
-            this.ClientSize = new System.Drawing.Size(1101, 654);
+            this.ClientSize = new System.Drawing.Size(979, 523);
             this.Controls.Add(this.menuStrip1);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.lblMessage);
             this.MainMenuStrip = this.menuStrip1;
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "FormVisiteur";
             this.Text = "FormVisiteur";
             this.Load += new System.EventHandler(this.FormVisiteur_Load);

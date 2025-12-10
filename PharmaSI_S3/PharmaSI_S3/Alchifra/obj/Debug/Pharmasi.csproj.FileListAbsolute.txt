@@ -457,3 +457,53 @@ P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\PharmaSI.csproj.CoreCompi
 P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\PharmaSI.csproj.CopyComplete
 P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.exe
 P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.pdb
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Alchifra.exe.config
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Alchifra.exe
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Alchifra.pdb
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Google.Protobuf.dll
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\MySql.Data.dll
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Buffers.dll
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.IO.Pipelines.dll
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Memory.dll
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\ZstdSharp.dll
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Google.Protobuf.pdb
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Google.Protobuf.xml
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\MySql.Data.xml
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Buffers.xml
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.IO.Pipelines.xml
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Memory.xml
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\PharmaSI.csproj.AssemblyReference.cache
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.exe.config
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.Form1.resources
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.FormDelegue.resources
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.FormPraticien.resources
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.FormProduit.resources
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.FormResponsable.resources
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.FormVisiteur.resources
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.Properties.Resources.resources
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\PharmaSI.csproj.GenerateResource.cache
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\PharmaSI.csproj.CoreCompileInputs.cache
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\PharmaSI.csproj.Up2Date
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.exe
+C:\Users\amokr\Source\Repos\sprint3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.pdb
+P:\sprint 3\PharmaSI_S3\PharmaSI_S3\Alchifra\obj\Debug\Alchifra.FormProduit.resources

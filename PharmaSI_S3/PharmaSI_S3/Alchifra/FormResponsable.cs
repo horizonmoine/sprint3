@@ -16,10 +16,18 @@ namespace Alchifra
         {
             InitializeComponent();
             lblMessage.Text = "Bonjour " + login + " le responsable de secteur";
+            // branchement du menu "Fiche d'un produit"
+            ficheDunProduitToolStripMenuItem.Click += ficheDunProduitToolStripMenuItem_Click;
         }
+
         private void FormResponsable_Load(object sender, EventArgs e)
         {
             // Code à exécuter au chargement du formulaire
+        }
+        private void ficheDunProduitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormProduit formProd = new FormProduit();
+            formProd.ShowDialog();  // ouvre la fiche produit
         }
 
         private void ficheDunPraticienToolStripMenuItem_Click(object sender, EventArgs e)
@@ -28,11 +36,12 @@ namespace Alchifra
             formPrat.ShowDialog();
         }
 
+
         private void quitterToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.Close();
             Application.Exit();
         }
-
     }
 }
+
