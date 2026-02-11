@@ -24,9 +24,7 @@ namespace Alchifra
             ChargerNumeroRapport();
         }
 
-        /// <summary>
         /// Charge la liste des praticiens dans la ComboBox
-        /// </summary>
         private void ChargerPraticiens()
         {
             ConnexionSql maConnexion = ConnexionSql.GetInstance("localhost", "pharmasi", "pharmasi_user", "Pharma2025!");
@@ -51,9 +49,7 @@ namespace Alchifra
                 cbPraticien.SelectedIndex = 0;
         }
 
-        /// <summary>
         /// Charge la liste des produits dans les deux ComboBox
-        /// </summary>
         private void ChargerProduits()
         {
             ConnexionSql maConnexion = ConnexionSql.GetInstance("localhost", "pharmasi", "pharmasi_user", "Pharma2025!");
