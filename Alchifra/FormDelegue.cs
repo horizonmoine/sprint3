@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -23,6 +23,14 @@ namespace Alchifra
             ficheDunProduitToolStripMenuItem.Click += ficheDunProduitToolStripMenuItem_Click;
             // branchement du menu "Créer un compte-rendu"
             creerUnCompterenduToolStripMenuItem.Click += creerUnCompterenduToolStripMenuItem_Click;
+            // branchement du menu "Consulter les rapports"
+            consulterLesRapportsToolStripMenuItem.Click += consulterLesRapportsToolStripMenuItem_Click;
+        }
+
+        private void consulterLesRapportsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormConsultationRapport formCons = new FormConsultationRapport(idEmploye, "delegue regional");
+            formCons.ShowDialog();
         }
         private void FormDelegue_Load(object sender, EventArgs e)
         {

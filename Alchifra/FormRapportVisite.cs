@@ -84,24 +84,34 @@ namespace Alchifra
             cbProduit2.SelectedIndex = 0;
         }
 
-        /// Récupère le prochain numéro de rapport (auto-increment)
+        /// Récupère le prochain numéro de rapport pour CE visiteur
         private void ChargerNumeroRapport()
         {
-            ConnexionSql maConnexion = ConnexionSql.GetInstance("localhost", "pharmasi", "pharmasi_user", "Pharma2025!");
-            maConnexion.OpenConnexion();
-
-            string requete = @"SELECT IFNULL(MAX(id_rapport), 0) + 1 AS prochain_id FROM rapport_visite";
-
-            MySqlCommand cmd = maConnexion.ReqExec(requete);
-            MySqlDataReader reader = cmd.ExecuteReader();
-
-            if (reader.Read())
+            try
             {
-                lblNumRapportVal.Text = reader.GetInt32(0).ToString();
-            }
+                ConnexionSql maConnexion = ConnexionSql.GetInstance("localhost", "pharmasi", "pharmasi_user", "Pharma2025!");
+                maConnexion.OpenConnexion();
 
-            reader.Close();
-            maConnexion.CloseConnexion();
+                // On compte combien de rapports ce visiteur a déjà fait
+                string requete = @"SELECT COUNT(*) + 1 AS prochain_num 
+                                   FROM rapport_visite 
+                                   WHERE id_visiteur = @idVisiteur";
+
+                MySqlCommand cmd = new MySqlCommand(requete, maConnexion.GetConnexion());
+                cmd.Parameters.AddWithValue("@idVisiteur", idVisiteur);
+                
+                object result = cmd.ExecuteScalar();
+                if (result != null)
+                {
+                    lblNumRapportVal.Text = result.ToString();
+                }
+
+                maConnexion.CloseConnexion();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Erreur lors de la récupération du numéro : " + ex.Message);
+            }
         }
 
         /// Validation et enregistrement du rapport de visite
@@ -144,8 +154,8 @@ namespace Alchifra
                 maConnexion.OpenConnexion();
 
                 // 1. Insertion du rapport de visite
-                string requeteRapport = @"INSERT INTO rapport_visite (date_rapport, motif, bilan, id_visiteur, id_praticien) 
-                                          VALUES (@dateVisite, @motif, @bilan, @idVisiteur, @idPraticien)";
+                string requeteRapport = @"INSERT INTO rapport_visite (date_rapport, motif, bilan, id_visiteur, id_praticien, num_rapport) 
+                                          VALUES (@dateVisite, @motif, @bilan, @idVisiteur, @idPraticien, @numRapport)";
 
                 MySqlCommand cmdRapport = new MySqlCommand(requeteRapport, maConnexion.GetConnexion());
                 cmdRapport.Parameters.AddWithValue("@dateVisite", dateVisite.ToString("yyyy-MM-dd"));
@@ -153,6 +163,7 @@ namespace Alchifra
                 cmdRapport.Parameters.AddWithValue("@bilan", txtBilan.Text);
                 cmdRapport.Parameters.AddWithValue("@idVisiteur", idVisiteur);
                 cmdRapport.Parameters.AddWithValue("@idPraticien", Convert.ToInt32(cbPraticien.SelectedValue));
+                cmdRapport.Parameters.AddWithValue("@numRapport", Convert.ToInt32(lblNumRapportVal.Text));
 
                 cmdRapport.ExecuteNonQuery();
 
@@ -160,31 +171,31 @@ namespace Alchifra
                 long idRapport = cmdRapport.LastInsertedId;
 
                 // 2. Insertion du produit 1 si sélectionné
-                if (cbProduit1.SelectedIndex > 0 && Convert.ToInt32(cbProduit1.SelectedValue) > 0)
+                if (cbProduit1.SelectedIndex > 0 && cbProduit1.SelectedValue != null && Convert.ToInt32(cbProduit1.SelectedValue) > 0)
                 {
-                    string requeteProduit = @"INSERT INTO rapport_produit (id_rapport, id_produit, nb_echantillons) 
-                                              VALUES (@idRapport, @idProduit, @nbEchantillons)";
+                    string requeteOffrir = @"INSERT INTO offrir (id_rapport, id_produit, quantite) 
+                                             VALUES (@idRapport, @idProduit, @quantite)";
 
-                    MySqlCommand cmdProduit1 = new MySqlCommand(requeteProduit, maConnexion.GetConnexion());
-                    cmdProduit1.Parameters.AddWithValue("@idRapport", idRapport);
-                    cmdProduit1.Parameters.AddWithValue("@idProduit", Convert.ToInt32(cbProduit1.SelectedValue));
-                    cmdProduit1.Parameters.AddWithValue("@nbEchantillons", (int)nudEchantillons1.Value);
+                    MySqlCommand cmdOffrir1 = new MySqlCommand(requeteOffrir, maConnexion.GetConnexion());
+                    cmdOffrir1.Parameters.AddWithValue("@idRapport", idRapport);
+                    cmdOffrir1.Parameters.AddWithValue("@idProduit", Convert.ToInt32(cbProduit1.SelectedValue));
+                    cmdOffrir1.Parameters.AddWithValue("@quantite", (int)nudEchantillons1.Value);
 
-                    cmdProduit1.ExecuteNonQuery();
+                    cmdOffrir1.ExecuteNonQuery();
                 }
 
                 // 3. Insertion du produit 2 si sélectionné
-                if (cbProduit2.SelectedIndex > 0 && Convert.ToInt32(cbProduit2.SelectedValue) > 0)
+                if (cbProduit2.SelectedIndex > 0 && cbProduit2.SelectedValue != null && Convert.ToInt32(cbProduit2.SelectedValue) > 0)
                 {
-                    string requeteProduit = @"INSERT INTO rapport_produit (id_rapport, id_produit, nb_echantillons) 
-                                              VALUES (@idRapport, @idProduit, @nbEchantillons)";
+                    string requeteOffrir = @"INSERT INTO offrir (id_rapport, id_produit, quantite) 
+                                             VALUES (@idRapport, @idProduit, @quantite)";
 
-                    MySqlCommand cmdProduit2 = new MySqlCommand(requeteProduit, maConnexion.GetConnexion());
-                    cmdProduit2.Parameters.AddWithValue("@idRapport", idRapport);
-                    cmdProduit2.Parameters.AddWithValue("@idProduit", Convert.ToInt32(cbProduit2.SelectedValue));
-                    cmdProduit2.Parameters.AddWithValue("@nbEchantillons", (int)nudEchantillons2.Value);
+                    MySqlCommand cmdOffrir2 = new MySqlCommand(requeteOffrir, maConnexion.GetConnexion());
+                    cmdOffrir2.Parameters.AddWithValue("@idRapport", idRapport);
+                    cmdOffrir2.Parameters.AddWithValue("@idProduit", Convert.ToInt32(cbProduit2.SelectedValue));
+                    cmdOffrir2.Parameters.AddWithValue("@quantite", (int)nudEchantillons2.Value);
 
-                    cmdProduit2.ExecuteNonQuery();
+                    cmdOffrir2.ExecuteNonQuery();
                 }
 
                 maConnexion.CloseConnexion();
