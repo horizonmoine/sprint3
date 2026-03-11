@@ -1,4 +1,4 @@
-﻿namespace Alchifra
+namespace Alchifra
 {
     partial class FormResponsable
     {
@@ -35,7 +35,7 @@
             this.consultationToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ficheDunProduitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ficheDunPraticienToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.comptesrendusToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.consulterLesRapportsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.fichierToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.quitterToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -99,7 +99,7 @@
             this.consultationToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.ficheDunProduitToolStripMenuItem,
             this.ficheDunPraticienToolStripMenuItem,
-            this.comptesrendusToolStripMenuItem});
+            this.consulterLesRapportsToolStripMenuItem});
             this.consultationToolStripMenuItem.Name = "consultationToolStripMenuItem";
             this.consultationToolStripMenuItem.Size = new System.Drawing.Size(106, 26);
             this.consultationToolStripMenuItem.Text = "Consultation";
@@ -117,11 +117,11 @@
             this.ficheDunPraticienToolStripMenuItem.Text = "Fiche d\'un praticien";
             this.ficheDunPraticienToolStripMenuItem.Click += new System.EventHandler(this.ficheDunPraticienToolStripMenuItem_Click);
             // 
-            // comptesrendusToolStripMenuItem
+            // consulterLesRapportsToolStripMenuItem
             // 
-            this.comptesrendusToolStripMenuItem.Name = "comptesrendusToolStripMenuItem";
-            this.comptesrendusToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.comptesrendusToolStripMenuItem.Text = "Comptes-rendus";
+            this.consulterLesRapportsToolStripMenuItem.Name = "consulterLesRapportsToolStripMenuItem";
+            this.consulterLesRapportsToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.consulterLesRapportsToolStripMenuItem.Text = "Consulter les rapports";
             // 
             // fichierToolStripMenuItem
             // 
@@ -172,6 +172,6 @@
         private System.Windows.Forms.ToolStripMenuItem consultationToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem ficheDunProduitToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem ficheDunPraticienToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem comptesrendusToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem consulterLesRapportsToolStripMenuItem;
     }
 }

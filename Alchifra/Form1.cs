@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
 
@@ -71,7 +71,7 @@ namespace Alchifra
                     }
                     else if (profil == "responsable de secteur")
                     {
-                        FormResponsable formResp = new FormResponsable(login);
+                        FormResponsable formResp = new FormResponsable(login, idEmploye);
                         this.Hide();
                         formResp.ShowDialog();
                         this.Show();
