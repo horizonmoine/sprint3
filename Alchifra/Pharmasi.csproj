@@ -137,6 +137,7 @@
     </Compile>
     <Compile Include="Praticien.cs" />
     <Compile Include="RapportVisite.cs" />
+    <Compile Include="Consultation.cs" />
     <Compile Include="FormRapportVisite.cs">
       <SubType>Form</SubType>
     </Compile>
