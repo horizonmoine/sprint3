@@ -89,6 +89,18 @@ namespace Alchifra
             }
         }
 
+        private void btnValiderSelection_Click(object sender, EventArgs e)
+        {
+            if (cbRapport.SelectedValue != null && int.TryParse(cbRapport.SelectedValue.ToString(), out int idRapport))
+            {
+                AfficherDetailsRapport(idRapport);
+            }
+            else
+            {
+                MessageBox.Show("Veuillez d'abord sélectionner un rapport.", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
+        
         private void AfficherDetailsRapport(int idRapport)
         {
             try
