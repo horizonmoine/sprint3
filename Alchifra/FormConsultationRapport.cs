@@ -81,14 +81,6 @@ namespace Alchifra
             }
         }
 
-        private void cbRapport_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            if (cbRapport.SelectedValue != null && int.TryParse(cbRapport.SelectedValue.ToString(), out int idRapport))
-            {
-                AfficherDetailsRapport(idRapport);
-            }
-        }
-
         private void btnValiderSelection_Click(object sender, EventArgs e)
         {
             if (cbRapport.SelectedValue != null && int.TryParse(cbRapport.SelectedValue.ToString(), out int idRapport))
@@ -100,7 +92,7 @@ namespace Alchifra
                 MessageBox.Show("Veuillez d'abord sélectionner un rapport.", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
-        
+
         private void AfficherDetailsRapport(int idRapport)
         {
             try
