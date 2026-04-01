@@ -34,6 +34,7 @@ namespace Alchifra
             this.dgvProduits = new System.Windows.Forms.DataGridView();
             this.lblProduits = new System.Windows.Forms.Label();
             this.btnFermer = new System.Windows.Forms.Button();
+            this.btnValiderSelection = new System.Windows.Forms.Button();    
             this.gbDetails.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvProduits)).BeginInit();
             this.SuspendLayout();
@@ -70,6 +71,20 @@ namespace Alchifra
             this.cbRapport.TabIndex = 2;
             this.cbRapport.SelectedIndexChanged += new System.EventHandler(this.cbRapport_SelectedIndexChanged);
             // 
+            // btnValiderSelection
+            // 
+            this.btnValiderSelection.BackColor = System.Drawing.Color.DodgerBlue;
+            this.btnValiderSelection.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnValiderSelection.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold);
+            this.btnValiderSelection.ForeColor = System.Drawing.Color.White;
+            this.btnValiderSelection.Location = new System.Drawing.Point(685, 72);
+            this.btnValiderSelection.Name = "btnValiderSelection";
+            this.btnValiderSelection.Size = new System.Drawing.Size(102, 33);
+            this.btnValiderSelection.TabIndex = 9;
+            this.btnValiderSelection.Text = "Valider";
+            this.btnValiderSelection.UseVisualStyleBackColor = false;
+            this.btnValiderSelection.Click += new System.EventHandler(this.btnValiderSelection_Click);
+            //            
             // gbDetails
             // 
             this.gbDetails.Controls.Add(this.lblAuteurVal);
@@ -229,6 +244,7 @@ namespace Alchifra
             this.BackColor = System.Drawing.Color.SeaGreen;
             this.ClientSize = new System.Drawing.Size(844, 680);
             this.Controls.Add(this.btnFermer);
+            this.Controls.Add(this.btnValiderSelection);  
             this.Controls.Add(this.lblProduits);
             this.Controls.Add(this.dgvProduits);
             this.Controls.Add(this.txtBilan);
@@ -270,5 +286,6 @@ namespace Alchifra
         private System.Windows.Forms.DataGridView dgvProduits;
         private System.Windows.Forms.Label lblProduits;
         private System.Windows.Forms.Button btnFermer;
+        private System.Windows.Forms.Button btnValiderSelection;
     }
 }
